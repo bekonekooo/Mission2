@@ -1,0 +1,23 @@
+input[type=text]{
+    width: 75vh;
+    border-bottom: 2px solid red;
+}
+button{
+    
+    margin-top: 2.5vh;
+}
+form{
+    border: 2px solid wheat;
+}
+.hide{
+    visibility: hidden;
+}
+h1{
+color: black;
+font-weight: 800;
+font-size: 30px;
+}
+a{
+    border: 1px solid black;
+    padding: 2px;
+}
